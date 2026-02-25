@@ -420,7 +420,7 @@ mmcdn.com
 cdn.jsdelivr.net
 cdn.privatehost.com
 verifycdn.agego.com	
-cdnjs.cloudflare.com
 xhcdn.com
 phncdn.com
+
 
