@@ -117,6 +117,7 @@ ersties.com
 etsy.com
 explicite-art.com
 exposedlatinas.com
+externulls.com
 faapy.com
 fakku.net
 faphouse.com
@@ -261,7 +262,6 @@ ok.xxx
 pascalssubsluts.com
 pawg.com
 perfectgirls.xxx
-phncdn.com
 pichunter.com
 pinaysmut.com
 pinkworld.com
@@ -391,7 +391,6 @@ xgroovy.com
 xhamster.com
 xhamster.desi
 xhamsterlive.com
-xhcdn.com
 xozilla.xxx
 xlovecam.com
 xnxx-ru.com
@@ -417,7 +416,9 @@ zzztube.com
 xnxx-cdn.com
 highwebmedia.com	
 mmcdn.com
-
-
-
-
+cdn.jsdelivr.net
+cdn.privatehost.com
+verifycdn.agego.com	
+cdnjs.cloudflare.com
+xhcdn.com
+phncdn.com
